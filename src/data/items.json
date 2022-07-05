@@ -1,0 +1,26 @@
+[
+    {
+        "id": 1,
+        "name": "Pasta",
+        "price": 4.99,
+        "imgUrl": "/imgs/pasta.jpg"
+    },
+    {
+        "id":2,
+        "name": "Wine",
+        "price": 15.49,
+        "imgUrl": "/imgs/wine.jpg"
+    },
+    {
+        "id": 3,
+        "name": "Peppers",
+        "price": 1.50,
+        "imgUrl": "/imgs/peppers.jpg"
+    },
+    {
+        "id": 4,
+        "name": "Onions",
+        "price": 4.69,
+        "imgUrl": "/imgs/onions.jpg"
+    }
+]
