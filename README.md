@@ -1,6 +1,6 @@
 # Shopping Cart with React and TS
 
-This project was built to explore working with TS and REACT, using Bootstrap for styling. A shopping cart application with a pop out window was developed. 
+This project was built to explore working with TS and REACT, using Bootstrap for styling and project intialised using Vite. A shopping cart application with a pop out window was developed. 
 
 
 ## Installation and Setup Instructions
